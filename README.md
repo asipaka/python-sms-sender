@@ -39,7 +39,7 @@ Before running the application, ensure you have the following:
 1. Clone the repository or download the script file.
 2. Install the required Python libraries:
    ```bash
-   pip install twilio phonenumbers
+   pip install twilio phonenumbers or pip install requirements.txt
    ```
 3. Ensure your `.txt` file containing phone numbers is properly formatted, with one phone number per line.
 
